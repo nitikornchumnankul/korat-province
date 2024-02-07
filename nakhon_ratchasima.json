@@ -1,0 +1,2603 @@
+[
+    {
+        "district": "ขามทะเลสอ",
+        "amphoe": "ขามทะเลสอ",
+        "province": "นครราชสีมา",
+        "zipcode": 30280,
+        "district_code": 301901,
+        "amphoe_code": 3019,
+        "province_code": 30
+    },
+    {
+        "district": "บึงอ้อ",
+        "amphoe": "ขามทะเลสอ",
+        "province": "นครราชสีมา",
+        "zipcode": 30280,
+        "district_code": 301905,
+        "amphoe_code": 3019,
+        "province_code": 30
+    },
+    {
+        "district": "พันดุง",
+        "amphoe": "ขามทะเลสอ",
+        "province": "นครราชสีมา",
+        "zipcode": 30280,
+        "district_code": 301903,
+        "amphoe_code": 3019,
+        "province_code": 30
+    },
+    {
+        "district": "หนองสรวง",
+        "amphoe": "ขามทะเลสอ",
+        "province": "นครราชสีมา",
+        "zipcode": 30280,
+        "district_code": 301904,
+        "amphoe_code": 3019,
+        "province_code": 30
+    },
+    {
+        "district": "โป่งแดง",
+        "amphoe": "ขามทะเลสอ",
+        "province": "นครราชสีมา",
+        "zipcode": 30280,
+        "district_code": 301902,
+        "amphoe_code": 3019,
+        "province_code": 30
+    },
+    {
+        "district": "ขามสะแกแสง",
+        "amphoe": "ขามสะแกแสง",
+        "province": "นครราชสีมา",
+        "zipcode": 30290,
+        "district_code": 301101,
+        "amphoe_code": 3011,
+        "province_code": 30
+    },
+    {
+        "district": "ชีวึก",
+        "amphoe": "ขามสะแกแสง",
+        "province": "นครราชสีมา",
+        "zipcode": 30290,
+        "district_code": 301104,
+        "amphoe_code": 3011,
+        "province_code": 30
+    },
+    {
+        "district": "พะงาด",
+        "amphoe": "ขามสะแกแสง",
+        "province": "นครราชสีมา",
+        "zipcode": 30290,
+        "district_code": 301105,
+        "amphoe_code": 3011,
+        "province_code": 30
+    },
+    {
+        "district": "หนองหัวฟาน",
+        "amphoe": "ขามสะแกแสง",
+        "province": "นครราชสีมา",
+        "zipcode": 30290,
+        "district_code": 301106,
+        "amphoe_code": 3011,
+        "province_code": 30
+    },
+    {
+        "district": "เมืองนาท",
+        "amphoe": "ขามสะแกแสง",
+        "province": "นครราชสีมา",
+        "zipcode": 30290,
+        "district_code": 301103,
+        "amphoe_code": 3011,
+        "province_code": 30
+    },
+    {
+        "district": "เมืองเกษตร",
+        "amphoe": "ขามสะแกแสง",
+        "province": "นครราชสีมา",
+        "zipcode": 30290,
+        "district_code": 301107,
+        "amphoe_code": 3011,
+        "province_code": 30
+    },
+    {
+        "district": "โนนเมือง",
+        "amphoe": "ขามสะแกแสง",
+        "province": "นครราชสีมา",
+        "zipcode": 30290,
+        "district_code": 301102,
+        "amphoe_code": 3011,
+        "province_code": 30
+    },
+    {
+        "district": "ขามสมบูรณ์",
+        "amphoe": "คง",
+        "province": "นครราชสีมา",
+        "zipcode": 30260,
+        "district_code": 300410,
+        "amphoe_code": 3004,
+        "province_code": 30
+    },
+    {
+        "district": "คูขาด",
+        "amphoe": "คง",
+        "province": "นครราชสีมา",
+        "zipcode": 30260,
+        "district_code": 300402,
+        "amphoe_code": 3004,
+        "province_code": 30
+    },
+    {
+        "district": "ดอนใหญ่",
+        "amphoe": "คง",
+        "province": "นครราชสีมา",
+        "zipcode": 30260,
+        "district_code": 300409,
+        "amphoe_code": 3004,
+        "province_code": 30
+    },
+    {
+        "district": "ตาจั่น",
+        "amphoe": "คง",
+        "province": "นครราชสีมา",
+        "zipcode": 30260,
+        "district_code": 300404,
+        "amphoe_code": 3004,
+        "province_code": 30
+    },
+    {
+        "district": "บ้านปรางค์",
+        "amphoe": "คง",
+        "province": "นครราชสีมา",
+        "zipcode": 30260,
+        "district_code": 300405,
+        "amphoe_code": 3004,
+        "province_code": 30
+    },
+    {
+        "district": "หนองบัว",
+        "amphoe": "คง",
+        "province": "นครราชสีมา",
+        "zipcode": 30260,
+        "district_code": 300407,
+        "amphoe_code": 3004,
+        "province_code": 30
+    },
+    {
+        "district": "หนองมะนาว",
+        "amphoe": "คง",
+        "province": "นครราชสีมา",
+        "zipcode": 30260,
+        "district_code": 300406,
+        "amphoe_code": 3004,
+        "province_code": 30
+    },
+    {
+        "district": "เทพาลัย",
+        "amphoe": "คง",
+        "province": "นครราชสีมา",
+        "zipcode": 30260,
+        "district_code": 300403,
+        "amphoe_code": 3004,
+        "province_code": 30
+    },
+    {
+        "district": "เมืองคง",
+        "amphoe": "คง",
+        "province": "นครราชสีมา",
+        "zipcode": 30260,
+        "district_code": 300401,
+        "amphoe_code": 3004,
+        "province_code": 30
+    },
+    {
+        "district": "โนนเต็ง",
+        "amphoe": "คง",
+        "province": "นครราชสีมา",
+        "zipcode": 30260,
+        "district_code": 300408,
+        "amphoe_code": 3004,
+        "province_code": 30
+    },
+    {
+        "district": "ครบุรี",
+        "amphoe": "ครบุรี",
+        "province": "นครราชสีมา",
+        "zipcode": 30250,
+        "district_code": 300203,
+        "amphoe_code": 3002,
+        "province_code": 30
+    },
+    {
+        "district": "ครบุรีใต้",
+        "amphoe": "ครบุรี",
+        "province": "นครราชสีมา",
+        "zipcode": 30250,
+        "district_code": 300210,
+        "amphoe_code": 3002,
+        "province_code": 30
+    },
+    {
+        "district": "จระเข้หิน",
+        "amphoe": "ครบุรี",
+        "province": "นครราชสีมา",
+        "zipcode": 30250,
+        "district_code": 300205,
+        "amphoe_code": 3002,
+        "province_code": 30
+    },
+    {
+        "district": "ตะแบกบาน",
+        "amphoe": "ครบุรี",
+        "province": "นครราชสีมา",
+        "zipcode": 30250,
+        "district_code": 300211,
+        "amphoe_code": 3002,
+        "province_code": 30
+    },
+    {
+        "district": "บ้านใหม่",
+        "amphoe": "ครบุรี",
+        "province": "นครราชสีมา",
+        "zipcode": 30250,
+        "district_code": 300113,
+        "amphoe_code": 3002,
+        "province_code": 30
+    },
+    {
+        "district": "มาบตะโกเอน",
+        "amphoe": "ครบุรี",
+        "province": "นครราชสีมา",
+        "zipcode": 30250,
+        "district_code": 300206,
+        "amphoe_code": 3002,
+        "province_code": 30
+    },
+    {
+        "district": "ลำเพียก",
+        "amphoe": "ครบุรี",
+        "province": "นครราชสีมา",
+        "zipcode": 30250,
+        "district_code": 300209,
+        "amphoe_code": 3002,
+        "province_code": 30
+    },
+    {
+        "district": "สระว่านพระยา",
+        "amphoe": "ครบุรี",
+        "province": "นครราชสีมา",
+        "zipcode": 30250,
+        "district_code": 300212,
+        "amphoe_code": 3002,
+        "province_code": 30
+    },
+    {
+        "district": "อรพิมพ์",
+        "amphoe": "ครบุรี",
+        "province": "นครราชสีมา",
+        "zipcode": 30250,
+        "district_code": 300207,
+        "amphoe_code": 3002,
+        "province_code": 30
+    },
+    {
+        "district": "เฉลียง",
+        "amphoe": "ครบุรี",
+        "province": "นครราชสีมา",
+        "zipcode": 30250,
+        "district_code": 300202,
+        "amphoe_code": 3002,
+        "province_code": 30
+    },
+    {
+        "district": "แชะ",
+        "amphoe": "ครบุรี",
+        "province": "นครราชสีมา",
+        "zipcode": 30250,
+        "district_code": 300201,
+        "amphoe_code": 3002,
+        "province_code": 30
+    },
+    {
+        "district": "โคกกระชาย",
+        "amphoe": "ครบุรี",
+        "province": "นครราชสีมา",
+        "zipcode": 30250,
+        "district_code": 300204,
+        "amphoe_code": 3002,
+        "province_code": 30
+    },
+    {
+        "district": "คลองเมือง",
+        "amphoe": "จักราช",
+        "province": "นครราชสีมา",
+        "zipcode": 30230,
+        "district_code": 300611,
+        "amphoe_code": 3006,
+        "province_code": 30
+    },
+    {
+        "district": "จักราช",
+        "amphoe": "จักราช",
+        "province": "นครราชสีมา",
+        "zipcode": 30230,
+        "district_code": 300601,
+        "amphoe_code": 3006,
+        "province_code": 30
+    },
+    {
+        "district": "ทองหลาง",
+        "amphoe": "จักราช",
+        "province": "นครราชสีมา",
+        "zipcode": 30230,
+        "district_code": 300603,
+        "amphoe_code": 3006,
+        "province_code": 30
+    },
+    {
+        "district": "ศรีละกอ",
+        "amphoe": "จักราช",
+        "province": "นครราชสีมา",
+        "zipcode": 30230,
+        "district_code": 300610,
+        "amphoe_code": 3006,
+        "province_code": 30
+    },
+    {
+        "district": "สีสุก",
+        "amphoe": "จักราช",
+        "province": "นครราชสีมา",
+        "zipcode": 30230,
+        "district_code": 300604,
+        "amphoe_code": 3006,
+        "province_code": 30
+    },
+    {
+        "district": "หนองขาม",
+        "amphoe": "จักราช",
+        "province": "นครราชสีมา",
+        "zipcode": 30230,
+        "district_code": 300605,
+        "amphoe_code": 3006,
+        "province_code": 30
+    },
+    {
+        "district": "หนองพลวง",
+        "amphoe": "จักราช",
+        "province": "นครราชสีมา",
+        "zipcode": 30230,
+        "district_code": 300607,
+        "amphoe_code": 3006,
+        "province_code": 30
+    },
+    {
+        "district": "หินโคน",
+        "amphoe": "จักราช",
+        "province": "นครราชสีมา",
+        "zipcode": 30230,
+        "district_code": 300613,
+        "amphoe_code": 3006,
+        "province_code": 30
+    },
+    {
+        "district": "ชุมพวง",
+        "amphoe": "ชุมพวง",
+        "province": "นครราชสีมา",
+        "zipcode": 30270,
+        "district_code": 301701,
+        "amphoe_code": 3017,
+        "province_code": 30
+    },
+    {
+        "district": "ตลาดไทร",
+        "amphoe": "ชุมพวง",
+        "province": "นครราชสีมา",
+        "zipcode": 30270,
+        "district_code": 301306,
+        "amphoe_code": 3017,
+        "province_code": 30
+    },
+    {
+        "district": "ท่าลาด",
+        "amphoe": "ชุมพวง",
+        "province": "นครราชสีมา",
+        "zipcode": 30270,
+        "district_code": 301703,
+        "amphoe_code": 3017,
+        "province_code": 30
+    },
+    {
+        "district": "ประสุข",
+        "amphoe": "ชุมพวง",
+        "province": "นครราชสีมา",
+        "zipcode": 30270,
+        "district_code": 301702,
+        "amphoe_code": 3017,
+        "province_code": 30
+    },
+    {
+        "district": "สาหร่าย",
+        "amphoe": "ชุมพวง",
+        "province": "นครราชสีมา",
+        "zipcode": 30270,
+        "district_code": 301704,
+        "amphoe_code": 3017,
+        "province_code": 30
+    },
+    {
+        "district": "หนองหลัก",
+        "amphoe": "ชุมพวง",
+        "province": "นครราชสีมา",
+        "zipcode": 30270,
+        "district_code": 301714,
+        "amphoe_code": 3017,
+        "province_code": 30
+    },
+    {
+        "district": "โนนตูม",
+        "amphoe": "ชุมพวง",
+        "province": "นครราชสีมา",
+        "zipcode": 30270,
+        "district_code": 301716,
+        "amphoe_code": 3017,
+        "province_code": 30
+    },
+    {
+        "district": "โนนยอ",
+        "amphoe": "ชุมพวง",
+        "province": "นครราชสีมา",
+        "zipcode": 30270,
+        "district_code": 301717,
+        "amphoe_code": 3017,
+        "province_code": 30
+    },
+    {
+        "district": "โนนรัง",
+        "amphoe": "ชุมพวง",
+        "province": "นครราชสีมา",
+        "zipcode": 30270,
+        "district_code": 301710,
+        "amphoe_code": 3017,
+        "province_code": 30
+    },
+    {
+        "district": "กุดพิมาน",
+        "amphoe": "ด่านขุนทด",
+        "province": "นครราชสีมา",
+        "zipcode": 30210,
+        "district_code": 300801,
+        "amphoe_code": 3008,
+        "province_code": 30
+    },
+    {
+        "district": "ด่านขุนทด",
+        "amphoe": "ด่านขุนทด",
+        "province": "นครราชสีมา",
+        "zipcode": 30210,
+        "district_code": 300802,
+        "amphoe_code": 3008,
+        "province_code": 30
+    },
+    {
+        "district": "ด่านนอก",
+        "amphoe": "ด่านขุนทด",
+        "province": "นครราชสีมา",
+        "zipcode": 30210,
+        "district_code": 300803,
+        "amphoe_code": 3008,
+        "province_code": 30
+    },
+    {
+        "district": "ด่านใน",
+        "amphoe": "ด่านขุนทด",
+        "province": "นครราชสีมา",
+        "zipcode": 30210,
+        "district_code": 300804,
+        "amphoe_code": 3008,
+        "province_code": 30
+    },
+    {
+        "district": "ตะเคียน",
+        "amphoe": "ด่านขุนทด",
+        "province": "นครราชสีมา",
+        "zipcode": 30210,
+        "district_code": 300805,
+        "amphoe_code": 3008,
+        "province_code": 30
+    },
+    {
+        "district": "บ้านเก่า",
+        "amphoe": "ด่านขุนทด",
+        "province": "นครราชสีมา",
+        "zipcode": 30210,
+        "district_code": 300806,
+        "amphoe_code": 3008,
+        "province_code": 30
+    },
+    {
+        "district": "บ้านแปรง",
+        "amphoe": "ด่านขุนทด",
+        "province": "นครราชสีมา",
+        "zipcode": 36220,
+        "district_code": 300807,
+        "amphoe_code": 3008,
+        "province_code": 30
+    },
+    {
+        "district": "พันชนะ",
+        "amphoe": "ด่านขุนทด",
+        "province": "นครราชสีมา",
+        "zipcode": 30210,
+        "district_code": 300808,
+        "amphoe_code": 3008,
+        "province_code": 30
+    },
+    {
+        "district": "สระจรเข้",
+        "amphoe": "ด่านขุนทด",
+        "province": "นครราชสีมา",
+        "zipcode": 30210,
+        "district_code": 300809,
+        "amphoe_code": 3008,
+        "province_code": 30
+    },
+    {
+        "district": "หนองกราด",
+        "amphoe": "ด่านขุนทด",
+        "province": "นครราชสีมา",
+        "zipcode": 30210,
+        "district_code": 300810,
+        "amphoe_code": 3008,
+        "province_code": 30
+    },
+    {
+        "district": "หนองบัวตะเกียด",
+        "amphoe": "ด่านขุนทด",
+        "province": "นครราชสีมา",
+        "zipcode": 30210,
+        "district_code": 300811,
+        "amphoe_code": 3008,
+        "province_code": 30
+    },
+    {
+        "district": "หนองบัวละคร",
+        "amphoe": "ด่านขุนทด",
+        "province": "นครราชสีมา",
+        "zipcode": 30210,
+        "district_code": 300812,
+        "amphoe_code": 3008,
+        "province_code": 30
+    },
+    {
+        "district": "หนองไทร",
+        "amphoe": "ด่านขุนทด",
+        "province": "นครราชสีมา",
+        "zipcode": 36220,
+        "district_code": 300818,
+        "amphoe_code": 3008,
+        "province_code": 30
+    },
+    {
+        "district": "หินดาด",
+        "amphoe": "ด่านขุนทด",
+        "province": "นครราชสีมา",
+        "zipcode": 30210,
+        "district_code": 300813,
+        "amphoe_code": 3008,
+        "province_code": 30
+    },
+    {
+        "district": "ห้วยบง",
+        "amphoe": "ด่านขุนทด",
+        "province": "นครราชสีมา",
+        "zipcode": 30210,
+        "district_code": 300815,
+        "amphoe_code": 3008,
+        "province_code": 30
+    },
+    {
+        "district": "โนนเมืองพัฒนา",
+        "amphoe": "ด่านขุนทด",
+        "province": "นครราชสีมา",
+        "zipcode": 30210,
+        "district_code": 300817,
+        "amphoe_code": 3008,
+        "province_code": 30
+    },
+    {
+        "district": "บัวลาย",
+        "amphoe": "บัวลาย",
+        "province": "นครราชสีมา",
+        "zipcode": 30120,
+        "district_code": 301210,
+        "amphoe_code": 3030,
+        "province_code": 30
+    },
+    {
+        "district": "หนองหว้า",
+        "amphoe": "บัวลาย",
+        "province": "นครราชสีมา",
+        "zipcode": 30120,
+        "district_code": 301209,
+        "amphoe_code": 3030,
+        "province_code": 30
+    },
+    {
+        "district": "เมืองพะไล",
+        "amphoe": "บัวลาย",
+        "province": "นครราชสีมา",
+        "zipcode": 30120,
+        "district_code": 301222,
+        "amphoe_code": 3030,
+        "province_code": 30
+    },
+    {
+        "district": "โนนจาน",
+        "amphoe": "บัวลาย",
+        "province": "นครราชสีมา",
+        "zipcode": 30120,
+        "district_code": 301216,
+        "amphoe_code": 3030,
+        "province_code": 30
+    },
+    {
+        "district": "กุดจอก",
+        "amphoe": "บัวใหญ่",
+        "province": "นครราชสีมา",
+        "zipcode": 30120,
+        "district_code": 301214,
+        "amphoe_code": 3012,
+        "province_code": 30
+    },
+    {
+        "district": "ขุนทอง",
+        "amphoe": "บัวใหญ่",
+        "province": "นครราชสีมา",
+        "zipcode": 30120,
+        "district_code": 301220,
+        "amphoe_code": 3012,
+        "province_code": 30
+    },
+    {
+        "district": "ดอนตะหนิน",
+        "amphoe": "บัวใหญ่",
+        "province": "นครราชสีมา",
+        "zipcode": 30120,
+        "district_code": 301206,
+        "amphoe_code": 3012,
+        "province_code": 30
+    },
+    {
+        "district": "ด่านช้าง",
+        "amphoe": "บัวใหญ่",
+        "province": "นครราชสีมา",
+        "zipcode": 30120,
+        "district_code": 301215,
+        "amphoe_code": 3012,
+        "province_code": 30
+    },
+    {
+        "district": "บัวใหญ่",
+        "amphoe": "บัวใหญ่",
+        "province": "นครราชสีมา",
+        "zipcode": 30120,
+        "district_code": 301201,
+        "amphoe_code": 3012,
+        "province_code": 30
+    },
+    {
+        "district": "หนองบัวสะอาด",
+        "amphoe": "บัวใหญ่",
+        "province": "นครราชสีมา",
+        "zipcode": 30120,
+        "district_code": 301207,
+        "amphoe_code": 3012,
+        "province_code": 30
+    },
+    {
+        "district": "หนองแจ้งใหญ่",
+        "amphoe": "บัวใหญ่",
+        "province": "นครราชสีมา",
+        "zipcode": 30120,
+        "district_code": 301224,
+        "amphoe_code": 3012,
+        "province_code": 30
+    },
+    {
+        "district": "ห้วยยาง",
+        "amphoe": "บัวใหญ่",
+        "province": "นครราชสีมา",
+        "zipcode": 30120,
+        "district_code": 301203,
+        "amphoe_code": 3012,
+        "province_code": 30
+    },
+    {
+        "district": "เสมาใหญ่",
+        "amphoe": "บัวใหญ่",
+        "province": "นครราชสีมา",
+        "zipcode": 30120,
+        "district_code": 301204,
+        "amphoe_code": 3012,
+        "province_code": 30
+    },
+    {
+        "district": "โนนทองหลาง",
+        "amphoe": "บัวใหญ่",
+        "province": "นครราชสีมา",
+        "zipcode": 30120,
+        "district_code": 301208,
+        "amphoe_code": 3012,
+        "province_code": 30
+    },
+    {
+        "district": "ช่อระกา",
+        "amphoe": "บ้านเหลื่อม",
+        "province": "นครราชสีมา",
+        "zipcode": 30350,
+        "district_code": 300504,
+        "amphoe_code": 3005,
+        "province_code": 30
+    },
+    {
+        "district": "บ้านเหลื่อม",
+        "amphoe": "บ้านเหลื่อม",
+        "province": "นครราชสีมา",
+        "zipcode": 30350,
+        "district_code": 300501,
+        "amphoe_code": 3005,
+        "province_code": 30
+    },
+    {
+        "district": "วังโพธิ์",
+        "amphoe": "บ้านเหลื่อม",
+        "province": "นครราชสีมา",
+        "zipcode": 30350,
+        "district_code": 300502,
+        "amphoe_code": 3005,
+        "province_code": 30
+    },
+    {
+        "district": "โคกกระเบื้อง",
+        "amphoe": "บ้านเหลื่อม",
+        "province": "นครราชสีมา",
+        "zipcode": 30350,
+        "district_code": 300503,
+        "amphoe_code": 3005,
+        "province_code": 30
+    },
+    {
+        "district": "กระทุ่มราย",
+        "amphoe": "ประทาย",
+        "province": "นครราชสีมา",
+        "zipcode": 30180,
+        "district_code": 301303,
+        "amphoe_code": 3013,
+        "province_code": 30
+    },
+    {
+        "district": "ดอนมัน",
+        "amphoe": "ประทาย",
+        "province": "นครราชสีมา",
+        "zipcode": 30180,
+        "district_code": 301310,
+        "amphoe_code": 3013,
+        "province_code": 30
+    },
+    {
+        "district": "ตลาดไทร",
+        "amphoe": "ประทาย",
+        "province": "นครราชสีมา",
+        "zipcode": 30180,
+        "district_code": 301306,
+        "amphoe_code": 3013,
+        "province_code": 30
+    },
+    {
+        "district": "ทุ่งสว่าง",
+        "amphoe": "ประทาย",
+        "province": "นครราชสีมา",
+        "zipcode": 30180,
+        "district_code": 301315,
+        "amphoe_code": 3013,
+        "province_code": 30
+    },
+    {
+        "district": "นางรำ",
+        "amphoe": "ประทาย",
+        "province": "นครราชสีมา",
+        "zipcode": 30180,
+        "district_code": 301313,
+        "amphoe_code": 3013,
+        "province_code": 30
+    },
+    {
+        "district": "ประทาย",
+        "amphoe": "ประทาย",
+        "province": "นครราชสีมา",
+        "zipcode": 30180,
+        "district_code": 301301,
+        "amphoe_code": 3013,
+        "province_code": 30
+    },
+    {
+        "district": "วังไม้แดง",
+        "amphoe": "ประทาย",
+        "province": "นครราชสีมา",
+        "zipcode": 30180,
+        "district_code": 301304,
+        "amphoe_code": 3013,
+        "province_code": 30
+    },
+    {
+        "district": "หนองค่าย",
+        "amphoe": "ประทาย",
+        "province": "นครราชสีมา",
+        "zipcode": 30180,
+        "district_code": 301308,
+        "amphoe_code": 3013,
+        "province_code": 30
+    },
+    {
+        "district": "หนองพลวง",
+        "amphoe": "ประทาย",
+        "province": "นครราชสีมา",
+        "zipcode": 30180,
+        "district_code": 300607,
+        "amphoe_code": 3013,
+        "province_code": 30
+    },
+    {
+        "district": "หันห้วยทราย",
+        "amphoe": "ประทาย",
+        "province": "นครราชสีมา",
+        "zipcode": 30180,
+        "district_code": 301309,
+        "amphoe_code": 3013,
+        "province_code": 30
+    },
+    {
+        "district": "เมืองโดน",
+        "amphoe": "ประทาย",
+        "province": "นครราชสีมา",
+        "zipcode": 30180,
+        "district_code": 301318,
+        "amphoe_code": 3013,
+        "province_code": 30
+    },
+    {
+        "district": "โคกกลาง",
+        "amphoe": "ประทาย",
+        "province": "นครราชสีมา",
+        "zipcode": 30180,
+        "district_code": 301317,
+        "amphoe_code": 3013,
+        "province_code": 30
+    },
+    {
+        "district": "โนนเพ็ด",
+        "amphoe": "ประทาย",
+        "province": "นครราชสีมา",
+        "zipcode": 30180,
+        "district_code": 301314,
+        "amphoe_code": 3013,
+        "province_code": 30
+    },
+    {
+        "district": "งิ้ว",
+        "amphoe": "ปักธงชัย",
+        "province": "นครราชสีมา",
+        "zipcode": 30150,
+        "district_code": 301410,
+        "amphoe_code": 3014,
+        "province_code": 30
+    },
+    {
+        "district": "ดอน",
+        "amphoe": "ปักธงชัย",
+        "province": "นครราชสีมา",
+        "zipcode": 30150,
+        "district_code": 301407,
+        "amphoe_code": 3014,
+        "province_code": 30
+    },
+    {
+        "district": "ตะขบ",
+        "amphoe": "ปักธงชัย",
+        "province": "นครราชสีมา",
+        "zipcode": 30150,
+        "district_code": 301405,
+        "amphoe_code": 3014,
+        "province_code": 30
+    },
+    {
+        "district": "ตะคุ",
+        "amphoe": "ปักธงชัย",
+        "province": "นครราชสีมา",
+        "zipcode": 30150,
+        "district_code": 301402,
+        "amphoe_code": 3014,
+        "province_code": 30
+    },
+    {
+        "district": "ตูม",
+        "amphoe": "ปักธงชัย",
+        "province": "นครราชสีมา",
+        "zipcode": 30150,
+        "district_code": 301409,
+        "amphoe_code": 3014,
+        "province_code": 30
+    },
+    {
+        "district": "ธงชัยเหนือ",
+        "amphoe": "ปักธงชัย",
+        "province": "นครราชสีมา",
+        "zipcode": 30150,
+        "district_code": 301417,
+        "amphoe_code": 3014,
+        "province_code": 30
+    },
+    {
+        "district": "นกออก",
+        "amphoe": "ปักธงชัย",
+        "province": "นครราชสีมา",
+        "zipcode": 30150,
+        "district_code": 301406,
+        "amphoe_code": 3014,
+        "province_code": 30
+    },
+    {
+        "district": "บ่อปลาทอง",
+        "amphoe": "ปักธงชัย",
+        "province": "นครราชสีมา",
+        "zipcode": 30150,
+        "district_code": 301420,
+        "amphoe_code": 3014,
+        "province_code": 30
+    },
+    {
+        "district": "ภูหลวง",
+        "amphoe": "ปักธงชัย",
+        "province": "นครราชสีมา",
+        "zipcode": 30150,
+        "district_code": 301416,
+        "amphoe_code": 3014,
+        "province_code": 30
+    },
+    {
+        "district": "ลำนางแก้ว",
+        "amphoe": "ปักธงชัย",
+        "province": "นครราชสีมา",
+        "zipcode": 30150,
+        "district_code": 301412,
+        "amphoe_code": 3014,
+        "province_code": 30
+    },
+    {
+        "district": "สะแกราช",
+        "amphoe": "ปักธงชัย",
+        "province": "นครราชสีมา",
+        "zipcode": 30150,
+        "district_code": 301411,
+        "amphoe_code": 3014,
+        "province_code": 30
+    },
+    {
+        "district": "สำโรง",
+        "amphoe": "ปักธงชัย",
+        "province": "นครราชสีมา",
+        "zipcode": 30150,
+        "district_code": 300904,
+        "amphoe_code": 3014,
+        "province_code": 30
+    },
+    {
+        "district": "สุขเกษม",
+        "amphoe": "ปักธงชัย",
+        "province": "นครราชสีมา",
+        "zipcode": 30150,
+        "district_code": 301418,
+        "amphoe_code": 3014,
+        "province_code": 30
+    },
+    {
+        "district": "เกษมทรัพย์",
+        "amphoe": "ปักธงชัย",
+        "province": "นครราชสีมา",
+        "zipcode": 30150,
+        "district_code": 301419,
+        "amphoe_code": 3014,
+        "province_code": 30
+    },
+    {
+        "district": "เมืองปัก",
+        "amphoe": "ปักธงชัย",
+        "province": "นครราชสีมา",
+        "zipcode": 30150,
+        "district_code": 301401,
+        "amphoe_code": 3014,
+        "province_code": 30
+    },
+    {
+        "district": "โคกไทย",
+        "amphoe": "ปักธงชัย",
+        "province": "นครราชสีมา",
+        "zipcode": 30150,
+        "district_code": 301403,
+        "amphoe_code": 3014,
+        "province_code": 30
+    },
+    {
+        "district": "กลางดง",
+        "amphoe": "ปากช่อง",
+        "province": "นครราชสีมา",
+        "zipcode": 30320,
+        "district_code": 302102,
+        "amphoe_code": 3021,
+        "province_code": 30
+    },
+    {
+        "district": "ขนงพระ",
+        "amphoe": "ปากช่อง",
+        "province": "นครราชสีมา",
+        "zipcode": 30130,
+        "district_code": 302107,
+        "amphoe_code": 3021,
+        "province_code": 30
+    },
+    {
+        "district": "คลองม่วง",
+        "amphoe": "ปากช่อง",
+        "province": "นครราชสีมา",
+        "zipcode": 30130,
+        "district_code": 302109,
+        "amphoe_code": 3021,
+        "province_code": 30
+    },
+    {
+        "district": "จันทึก",
+        "amphoe": "ปากช่อง",
+        "province": "นครราชสีมา",
+        "zipcode": 30130,
+        "district_code": 302103,
+        "amphoe_code": 3021,
+        "province_code": 30
+    },
+    {
+        "district": "ปากช่อง",
+        "amphoe": "ปากช่อง",
+        "province": "นครราชสีมา",
+        "zipcode": 30130,
+        "district_code": 302101,
+        "amphoe_code": 3021,
+        "province_code": 30
+    },
+    {
+        "district": "พญาเย็น",
+        "amphoe": "ปากช่อง",
+        "province": "นครราชสีมา",
+        "zipcode": 30320,
+        "district_code": 302112,
+        "amphoe_code": 3021,
+        "province_code": 30
+    },
+    {
+        "district": "วังกะทะ",
+        "amphoe": "ปากช่อง",
+        "province": "นครราชสีมา",
+        "zipcode": 30130,
+        "district_code": 302104,
+        "amphoe_code": 3021,
+        "province_code": 30
+    },
+    {
+        "district": "วังไทร",
+        "amphoe": "ปากช่อง",
+        "province": "นครราชสีมา",
+        "zipcode": 30130,
+        "district_code": 302111,
+        "amphoe_code": 3021,
+        "province_code": 30
+    },
+    {
+        "district": "หนองน้ำแดง",
+        "amphoe": "ปากช่อง",
+        "province": "นครราชสีมา",
+        "zipcode": 30130,
+        "district_code": 302110,
+        "amphoe_code": 3021,
+        "province_code": 30
+    },
+    {
+        "district": "หนองสาหร่าย",
+        "amphoe": "ปากช่อง",
+        "province": "นครราชสีมา",
+        "zipcode": 30130,
+        "district_code": 302106,
+        "amphoe_code": 3021,
+        "province_code": 30
+    },
+    {
+        "district": "หมูสี",
+        "amphoe": "ปากช่อง",
+        "province": "นครราชสีมา",
+        "zipcode": 30130,
+        "district_code": 302105,
+        "amphoe_code": 3021,
+        "province_code": 30
+    },
+    {
+        "district": "โป่งตาลอง",
+        "amphoe": "ปากช่อง",
+        "province": "นครราชสีมา",
+        "zipcode": 30130,
+        "district_code": 302108,
+        "amphoe_code": 3021,
+        "province_code": 30
+    },
+    {
+        "district": "ทัพรั้ง",
+        "amphoe": "พระทองคำ",
+        "province": "นครราชสีมา",
+        "zipcode": 30220,
+        "district_code": 300912,
+        "amphoe_code": 3028,
+        "province_code": 30
+    },
+    {
+        "district": "พังเทียม",
+        "amphoe": "พระทองคำ",
+        "province": "นครราชสีมา",
+        "zipcode": 30220,
+        "district_code": 300910,
+        "amphoe_code": 3028,
+        "province_code": 30
+    },
+    {
+        "district": "มาบกราด",
+        "amphoe": "พระทองคำ",
+        "province": "นครราชสีมา",
+        "zipcode": 30220,
+        "district_code": 300915,
+        "amphoe_code": 3028,
+        "province_code": 30
+    },
+    {
+        "district": "สระพระ",
+        "amphoe": "พระทองคำ",
+        "province": "นครราชสีมา",
+        "zipcode": 30220,
+        "district_code": 300911,
+        "amphoe_code": 3028,
+        "province_code": 30
+    },
+    {
+        "district": "หนองหอย",
+        "amphoe": "พระทองคำ",
+        "province": "นครราชสีมา",
+        "zipcode": 30220,
+        "district_code": 300913,
+        "amphoe_code": 3028,
+        "province_code": 30
+    },
+    {
+        "district": "กระชอน",
+        "amphoe": "พิมาย",
+        "province": "นครราชสีมา",
+        "zipcode": 30110,
+        "district_code": 301509,
+        "amphoe_code": 3015,
+        "province_code": 30
+    },
+    {
+        "district": "กระเบื้องใหญ่",
+        "amphoe": "พิมาย",
+        "province": "นครราชสีมา",
+        "zipcode": 30110,
+        "district_code": 301504,
+        "amphoe_code": 3015,
+        "province_code": 30
+    },
+    {
+        "district": "ชีวาน",
+        "amphoe": "พิมาย",
+        "province": "นครราชสีมา",
+        "zipcode": 30110,
+        "district_code": 301507,
+        "amphoe_code": 3015,
+        "province_code": 30
+    },
+    {
+        "district": "ดงใหญ่",
+        "amphoe": "พิมาย",
+        "province": "นครราชสีมา",
+        "zipcode": 30110,
+        "district_code": 301510,
+        "amphoe_code": 3015,
+        "province_code": 30
+    },
+    {
+        "district": "ท่าหลวง",
+        "amphoe": "พิมาย",
+        "province": "นครราชสีมา",
+        "zipcode": 30110,
+        "district_code": 301505,
+        "amphoe_code": 3015,
+        "province_code": 30
+    },
+    {
+        "district": "ธารละหลอด",
+        "amphoe": "พิมาย",
+        "province": "นครราชสีมา",
+        "zipcode": 30110,
+        "district_code": 301511,
+        "amphoe_code": 3015,
+        "province_code": 30
+    },
+    {
+        "district": "นิคมสร้างตนเอง",
+        "amphoe": "พิมาย",
+        "province": "นครราชสีมา",
+        "zipcode": 30110,
+        "district_code": 301508,
+        "amphoe_code": 3015,
+        "province_code": 30
+    },
+    {
+        "district": "รังกาใหญ่",
+        "amphoe": "พิมาย",
+        "province": "นครราชสีมา",
+        "zipcode": 30110,
+        "district_code": 301506,
+        "amphoe_code": 3015,
+        "province_code": 30
+    },
+    {
+        "district": "สัมฤทธิ์",
+        "amphoe": "พิมาย",
+        "province": "นครราชสีมา",
+        "zipcode": 30110,
+        "district_code": 301502,
+        "amphoe_code": 3015,
+        "province_code": 30
+    },
+    {
+        "district": "หนองระเวียง",
+        "amphoe": "พิมาย",
+        "province": "นครราชสีมา",
+        "zipcode": 30110,
+        "district_code": 300106,
+        "amphoe_code": 3015,
+        "province_code": 30
+    },
+    {
+        "district": "โบสถ์",
+        "amphoe": "พิมาย",
+        "province": "นครราชสีมา",
+        "zipcode": 30110,
+        "district_code": 301503,
+        "amphoe_code": 3015,
+        "province_code": 30
+    },
+    {
+        "district": "ในเมือง",
+        "amphoe": "พิมาย",
+        "province": "นครราชสีมา",
+        "zipcode": 30110,
+        "district_code": 300101,
+        "amphoe_code": 3015,
+        "province_code": 30
+    },
+    {
+        "district": "ขุย",
+        "amphoe": "ลำทะเมนชัย",
+        "province": "นครราชสีมา",
+        "zipcode": 30270,
+        "district_code": 301707,
+        "amphoe_code": 3029,
+        "province_code": 30
+    },
+    {
+        "district": "ช่องแมว",
+        "amphoe": "ลำทะเมนชัย",
+        "province": "นครราชสีมา",
+        "zipcode": 30270,
+        "district_code": 301706,
+        "amphoe_code": 3029,
+        "province_code": 30
+    },
+    {
+        "district": "บ้านยาง",
+        "amphoe": "ลำทะเมนชัย",
+        "province": "นครราชสีมา",
+        "zipcode": 30270,
+        "district_code": 301711,
+        "amphoe_code": 3029,
+        "province_code": 30
+    },
+    {
+        "district": "ไพล",
+        "amphoe": "ลำทะเมนชัย",
+        "province": "นครราชสีมา",
+        "zipcode": 30270,
+        "district_code": 301715,
+        "amphoe_code": 3029,
+        "province_code": 30
+    },
+    {
+        "district": "ระเริง",
+        "amphoe": "วังน้ำเขียว",
+        "province": "นครราชสีมา",
+        "zipcode": 30150,
+        "district_code": 301414,
+        "amphoe_code": 3025,
+        "province_code": 30
+    },
+    {
+        "district": "วังน้ำเขียว",
+        "amphoe": "วังน้ำเขียว",
+        "province": "นครราชสีมา",
+        "zipcode": 30370,
+        "district_code": 301408,
+        "amphoe_code": 3025,
+        "province_code": 30
+    },
+    {
+        "district": "วังหมี",
+        "amphoe": "วังน้ำเขียว",
+        "province": "นครราชสีมา",
+        "zipcode": 30370,
+        "district_code": 301413,
+        "amphoe_code": 3025,
+        "province_code": 30
+    },
+    {
+        "district": "อุดมทรัพย์",
+        "amphoe": "วังน้ำเขียว",
+        "province": "นครราชสีมา",
+        "zipcode": 30370,
+        "district_code": 301415,
+        "amphoe_code": 3025,
+        "province_code": 30
+    },
+    {
+        "district": "ไทยสามัคคี",
+        "amphoe": "วังน้ำเขียว",
+        "province": "นครราชสีมา",
+        "zipcode": 30370,
+        "district_code": 302505,
+        "amphoe_code": 3025,
+        "province_code": 30
+    },
+    {
+        "district": "กฤษณา",
+        "amphoe": "สีคิ้ว",
+        "province": "นครราชสีมา",
+        "zipcode": 30140,
+        "district_code": 302003,
+        "amphoe_code": 3020,
+        "province_code": 30
+    },
+    {
+        "district": "กุดน้อย",
+        "amphoe": "สีคิ้ว",
+        "province": "นครราชสีมา",
+        "zipcode": 30140,
+        "district_code": 302006,
+        "amphoe_code": 3020,
+        "province_code": 30
+    },
+    {
+        "district": "คลองไผ่",
+        "amphoe": "สีคิ้ว",
+        "province": "นครราชสีมา",
+        "zipcode": 30340,
+        "district_code": 302010,
+        "amphoe_code": 3020,
+        "province_code": 30
+    },
+    {
+        "district": "ดอนเมือง",
+        "amphoe": "สีคิ้ว",
+        "province": "นครราชสีมา",
+        "zipcode": 30140,
+        "district_code": 302011,
+        "amphoe_code": 3020,
+        "province_code": 30
+    },
+    {
+        "district": "บ้านหัน",
+        "amphoe": "สีคิ้ว",
+        "province": "นครราชสีมา",
+        "zipcode": 30140,
+        "district_code": 302002,
+        "amphoe_code": 3020,
+        "province_code": 30
+    },
+    {
+        "district": "มิตรภาพ",
+        "amphoe": "สีคิ้ว",
+        "province": "นครราชสีมา",
+        "zipcode": 30140,
+        "district_code": 302009,
+        "amphoe_code": 3020,
+        "province_code": 30
+    },
+    {
+        "district": "ลาดบัวขาว",
+        "amphoe": "สีคิ้ว",
+        "province": "นครราชสีมา",
+        "zipcode": 30340,
+        "district_code": 302004,
+        "amphoe_code": 3020,
+        "province_code": 30
+    },
+    {
+        "district": "วังโรงใหญ่",
+        "amphoe": "สีคิ้ว",
+        "province": "นครราชสีมา",
+        "zipcode": 30140,
+        "district_code": 302008,
+        "amphoe_code": 3020,
+        "province_code": 30
+    },
+    {
+        "district": "สีคิ้ว",
+        "amphoe": "สีคิ้ว",
+        "province": "นครราชสีมา",
+        "zipcode": 30140,
+        "district_code": 302001,
+        "amphoe_code": 3020,
+        "province_code": 30
+    },
+    {
+        "district": "หนองน้ำใส",
+        "amphoe": "สีคิ้ว",
+        "province": "นครราชสีมา",
+        "zipcode": 30140,
+        "district_code": 302007,
+        "amphoe_code": 3020,
+        "province_code": 30
+    },
+    {
+        "district": "หนองบัวน้อย",
+        "amphoe": "สีคิ้ว",
+        "province": "นครราชสีมา",
+        "zipcode": 30140,
+        "district_code": 302012,
+        "amphoe_code": 3020,
+        "province_code": 30
+    },
+    {
+        "district": "หนองหญ้าขาว",
+        "amphoe": "สีคิ้ว",
+        "province": "นครราชสีมา",
+        "zipcode": 30140,
+        "district_code": 302005,
+        "amphoe_code": 3020,
+        "province_code": 30
+    },
+    {
+        "district": "สามเมือง",
+        "amphoe": "สีดา",
+        "province": "นครราชสีมา",
+        "zipcode": 30430,
+        "district_code": 301218,
+        "amphoe_code": 3031,
+        "province_code": 30
+    },
+    {
+        "district": "สีดา",
+        "amphoe": "สีดา",
+        "province": "นครราชสีมา",
+        "zipcode": 30430,
+        "district_code": 301211,
+        "amphoe_code": 3031,
+        "province_code": 30
+    },
+    {
+        "district": "หนองตาดใหญ่",
+        "amphoe": "สีดา",
+        "province": "นครราชสีมา",
+        "zipcode": 30430,
+        "district_code": 301221,
+        "amphoe_code": 3031,
+        "province_code": 30
+    },
+    {
+        "district": "โนนประดู่",
+        "amphoe": "สีดา",
+        "province": "นครราชสีมา",
+        "zipcode": 30430,
+        "district_code": 301223,
+        "amphoe_code": 3031,
+        "province_code": 30
+    },
+    {
+        "district": "โพนทอง",
+        "amphoe": "สีดา",
+        "province": "นครราชสีมา",
+        "zipcode": 30430,
+        "district_code": 301212,
+        "amphoe_code": 3031,
+        "province_code": 30
+    },
+    {
+        "district": "กุดจิก",
+        "amphoe": "สูงเนิน",
+        "province": "นครราชสีมา",
+        "zipcode": 30380,
+        "district_code": 301811,
+        "amphoe_code": 3018,
+        "province_code": 30
+    },
+    {
+        "district": "นากลาง",
+        "amphoe": "สูงเนิน",
+        "province": "นครราชสีมา",
+        "zipcode": 30380,
+        "district_code": 301809,
+        "amphoe_code": 3018,
+        "province_code": 30
+    },
+    {
+        "district": "บุ่งขี้เหล็ก",
+        "amphoe": "สูงเนิน",
+        "province": "นครราชสีมา",
+        "zipcode": 30170,
+        "district_code": 301804,
+        "amphoe_code": 3018,
+        "province_code": 30
+    },
+    {
+        "district": "มะเกลือเก่า",
+        "amphoe": "สูงเนิน",
+        "province": "นครราชสีมา",
+        "zipcode": 30170,
+        "district_code": 301807,
+        "amphoe_code": 3018,
+        "province_code": 30
+    },
+    {
+        "district": "มะเกลือใหม่",
+        "amphoe": "สูงเนิน",
+        "province": "นครราชสีมา",
+        "zipcode": 30170,
+        "district_code": 301808,
+        "amphoe_code": 3018,
+        "province_code": 30
+    },
+    {
+        "district": "สูงเนิน",
+        "amphoe": "สูงเนิน",
+        "province": "นครราชสีมา",
+        "zipcode": 30170,
+        "district_code": 301801,
+        "amphoe_code": 3018,
+        "province_code": 30
+    },
+    {
+        "district": "หนองตะไก้",
+        "amphoe": "สูงเนิน",
+        "province": "นครราชสีมา",
+        "zipcode": 30380,
+        "district_code": 301810,
+        "amphoe_code": 3018,
+        "province_code": 30
+    },
+    {
+        "district": "เสมา",
+        "amphoe": "สูงเนิน",
+        "province": "นครราชสีมา",
+        "zipcode": 30170,
+        "district_code": 301802,
+        "amphoe_code": 3018,
+        "province_code": 30
+    },
+    {
+        "district": "โคราช",
+        "amphoe": "สูงเนิน",
+        "province": "นครราชสีมา",
+        "zipcode": 30170,
+        "district_code": 301803,
+        "amphoe_code": 3018,
+        "province_code": 30
+    },
+    {
+        "district": "โค้งยาง",
+        "amphoe": "สูงเนิน",
+        "province": "นครราชสีมา",
+        "zipcode": 30170,
+        "district_code": 301806,
+        "amphoe_code": 3018,
+        "province_code": 30
+    },
+    {
+        "district": "โนนค่า",
+        "amphoe": "สูงเนิน",
+        "province": "นครราชสีมา",
+        "zipcode": 30170,
+        "district_code": 301805,
+        "amphoe_code": 3018,
+        "province_code": 30
+    },
+    {
+        "district": "บ้านใหม่",
+        "amphoe": "หนองบุญมาก",
+        "province": "นครราชสีมา",
+        "zipcode": 30410,
+        "district_code": 300113,
+        "amphoe_code": 3022,
+        "province_code": 30
+    },
+    {
+        "district": "ลุงเขว้า",
+        "amphoe": "หนองบุญมาก",
+        "province": "นครราชสีมา",
+        "zipcode": 30410,
+        "district_code": 302207,
+        "amphoe_code": 3022,
+        "province_code": 30
+    },
+    {
+        "district": "สารภี",
+        "amphoe": "หนองบุญมาก",
+        "province": "นครราชสีมา",
+        "zipcode": 30410,
+        "district_code": 302202,
+        "amphoe_code": 3022,
+        "province_code": 30
+    },
+    {
+        "district": "หนองตะไก้",
+        "amphoe": "หนองบุญมาก",
+        "province": "นครราชสีมา",
+        "zipcode": 30410,
+        "district_code": 301810,
+        "amphoe_code": 3022,
+        "province_code": 30
+    },
+    {
+        "district": "หนองบุนนาก",
+        "amphoe": "หนองบุญมาก",
+        "province": "นครราชสีมา",
+        "zipcode": 30410,
+        "district_code": 302201,
+        "amphoe_code": 3022,
+        "province_code": 30
+    },
+    {
+        "district": "หนองหัวแรต",
+        "amphoe": "หนองบุญมาก",
+        "province": "นครราชสีมา",
+        "zipcode": 30410,
+        "district_code": 302204,
+        "amphoe_code": 3022,
+        "province_code": 30
+    },
+    {
+        "district": "หนองไม้ไผ่",
+        "amphoe": "หนองบุญมาก",
+        "province": "นครราชสีมา",
+        "zipcode": 30410,
+        "district_code": 302208,
+        "amphoe_code": 3022,
+        "province_code": 30
+    },
+    {
+        "district": "แหลมทอง",
+        "amphoe": "หนองบุญมาก",
+        "province": "นครราชสีมา",
+        "zipcode": 30410,
+        "district_code": 302205,
+        "amphoe_code": 3022,
+        "province_code": 30
+    },
+    {
+        "district": "ไทยเจริญ",
+        "amphoe": "หนองบุญมาก",
+        "province": "นครราชสีมา",
+        "zipcode": 30410,
+        "district_code": 302203,
+        "amphoe_code": 3022,
+        "province_code": 30
+    },
+    {
+        "district": "กงรถ",
+        "amphoe": "ห้วยแถลง",
+        "province": "นครราชสีมา",
+        "zipcode": 30240,
+        "district_code": 301607,
+        "amphoe_code": 3016,
+        "province_code": 30
+    },
+    {
+        "district": "งิ้ว",
+        "amphoe": "ห้วยแถลง",
+        "province": "นครราชสีมา",
+        "zipcode": 30240,
+        "district_code": 301410,
+        "amphoe_code": 3016,
+        "province_code": 30
+    },
+    {
+        "district": "ตะโก",
+        "amphoe": "ห้วยแถลง",
+        "province": "นครราชสีมา",
+        "zipcode": 30240,
+        "district_code": 301609,
+        "amphoe_code": 3016,
+        "province_code": 30
+    },
+    {
+        "district": "ทับสวาย",
+        "amphoe": "ห้วยแถลง",
+        "province": "นครราชสีมา",
+        "zipcode": 30240,
+        "district_code": 301602,
+        "amphoe_code": 3016,
+        "province_code": 30
+    },
+    {
+        "district": "หลุ่งตะเคียน",
+        "amphoe": "ห้วยแถลง",
+        "province": "นครราชสีมา",
+        "zipcode": 30240,
+        "district_code": 301604,
+        "amphoe_code": 3016,
+        "province_code": 30
+    },
+    {
+        "district": "หลุ่งประดู่",
+        "amphoe": "ห้วยแถลง",
+        "province": "นครราชสีมา",
+        "zipcode": 30240,
+        "district_code": 301608,
+        "amphoe_code": 3016,
+        "province_code": 30
+    },
+    {
+        "district": "หินดาด",
+        "amphoe": "ห้วยแถลง",
+        "province": "นครราชสีมา",
+        "zipcode": 30240,
+        "district_code": 300813,
+        "amphoe_code": 3016,
+        "province_code": 30
+    },
+    {
+        "district": "ห้วยแคน",
+        "amphoe": "ห้วยแถลง",
+        "province": "นครราชสีมา",
+        "zipcode": 30240,
+        "district_code": 301610,
+        "amphoe_code": 3016,
+        "province_code": 30
+    },
+    {
+        "district": "ห้วยแถลง",
+        "amphoe": "ห้วยแถลง",
+        "province": "นครราชสีมา",
+        "zipcode": 30240,
+        "district_code": 301601,
+        "amphoe_code": 3016,
+        "province_code": 30
+    },
+    {
+        "district": "เมืองพลับพลา",
+        "amphoe": "ห้วยแถลง",
+        "province": "นครราชสีมา",
+        "zipcode": 30240,
+        "district_code": 301603,
+        "amphoe_code": 3016,
+        "province_code": 30
+    },
+    {
+        "district": "ช้างทอง",
+        "amphoe": "เฉลิมพระเกียรติ",
+        "province": "นครราชสีมา",
+        "zipcode": 30230,
+        "district_code": 300612,
+        "amphoe_code": 3032,
+        "province_code": 30
+    },
+    {
+        "district": "ท่าช้าง",
+        "amphoe": "เฉลิมพระเกียรติ",
+        "province": "นครราชสีมา",
+        "zipcode": 30230,
+        "district_code": 300602,
+        "amphoe_code": 3032,
+        "province_code": 30
+    },
+    {
+        "district": "พระพุทธ",
+        "amphoe": "เฉลิมพระเกียรติ",
+        "province": "นครราชสีมา",
+        "zipcode": 30230,
+        "district_code": 300609,
+        "amphoe_code": 3032,
+        "province_code": 30
+    },
+    {
+        "district": "หนองงูเหลือม",
+        "amphoe": "เฉลิมพระเกียรติ",
+        "province": "นครราชสีมา",
+        "zipcode": 30000,
+        "district_code": 300606,
+        "amphoe_code": 3032,
+        "province_code": 30
+    },
+    {
+        "district": "หนองยาง",
+        "amphoe": "เฉลิมพระเกียรติ",
+        "province": "นครราชสีมา",
+        "zipcode": 30230,
+        "district_code": 300608,
+        "amphoe_code": 3032,
+        "province_code": 30
+    },
+    {
+        "district": "บึงปรือ",
+        "amphoe": "เทพารักษ์",
+        "province": "นครราชสีมา",
+        "zipcode": 30210,
+        "district_code": 300819,
+        "amphoe_code": 3026,
+        "province_code": 30
+    },
+    {
+        "district": "วังยายทอง",
+        "amphoe": "เทพารักษ์",
+        "province": "นครราชสีมา",
+        "zipcode": 30210,
+        "district_code": 302604,
+        "amphoe_code": 3026,
+        "province_code": 30
+    },
+    {
+        "district": "สำนักตะคร้อ",
+        "amphoe": "เทพารักษ์",
+        "province": "นครราชสีมา",
+        "zipcode": 30210,
+        "district_code": 300814,
+        "amphoe_code": 3026,
+        "province_code": 30
+    },
+    {
+        "district": "หนองแวง",
+        "amphoe": "เทพารักษ์",
+        "province": "นครราชสีมา",
+        "zipcode": 30210,
+        "district_code": 300816,
+        "amphoe_code": 3026,
+        "province_code": 30
+    },
+    {
+        "district": "จอหอ",
+        "amphoe": "เมืองนครราชสีมา",
+        "province": "นครราชสีมา",
+        "zipcode": 30310,
+        "district_code": 300116,
+        "amphoe_code": 3001,
+        "province_code": 30
+    },
+    {
+        "district": "ตลาด",
+        "amphoe": "เมืองนครราชสีมา",
+        "province": "นครราชสีมา",
+        "zipcode": 30310,
+        "district_code": 300122,
+        "amphoe_code": 3001,
+        "province_code": 30
+    },
+    {
+        "district": "บ้านเกาะ",
+        "amphoe": "เมืองนครราชสีมา",
+        "province": "นครราชสีมา",
+        "zipcode": 30000,
+        "district_code": 300112,
+        "amphoe_code": 3001,
+        "province_code": 30
+    },
+    {
+        "district": "บ้านโพธิ์",
+        "amphoe": "เมืองนครราชสีมา",
+        "province": "นครราชสีมา",
+        "zipcode": 30310,
+        "district_code": 300115,
+        "amphoe_code": 3001,
+        "province_code": 30
+    },
+    {
+        "district": "บ้านใหม่",
+        "amphoe": "เมืองนครราชสีมา",
+        "province": "นครราชสีมา",
+        "zipcode": 30000,
+        "district_code": 300113,
+        "amphoe_code": 3001,
+        "province_code": 30
+    },
+    {
+        "district": "ปรุใหญ่",
+        "amphoe": "เมืองนครราชสีมา",
+        "province": "นครราชสีมา",
+        "zipcode": 30000,
+        "district_code": 300107,
+        "amphoe_code": 3001,
+        "province_code": 30
+    },
+    {
+        "district": "พลกรัง",
+        "amphoe": "เมืองนครราชสีมา",
+        "province": "นครราชสีมา",
+        "zipcode": 30000,
+        "district_code": 300109,
+        "amphoe_code": 3001,
+        "province_code": 30
+    },
+    {
+        "district": "พะเนา",
+        "amphoe": "เมืองนครราชสีมา",
+        "province": "นครราชสีมา",
+        "zipcode": 30000,
+        "district_code": 300123,
+        "amphoe_code": 3001,
+        "province_code": 30
+    },
+    {
+        "district": "พุดซา",
+        "amphoe": "เมืองนครราชสีมา",
+        "province": "นครราชสีมา",
+        "zipcode": 30000,
+        "district_code": 300114,
+        "amphoe_code": 3001,
+        "province_code": 30
+    },
+    {
+        "district": "มะเริง",
+        "amphoe": "เมืองนครราชสีมา",
+        "province": "นครราชสีมา",
+        "zipcode": 30000,
+        "district_code": 300105,
+        "amphoe_code": 3001,
+        "province_code": 30
+    },
+    {
+        "district": "สีมุม",
+        "amphoe": "เมืองนครราชสีมา",
+        "province": "นครราชสีมา",
+        "zipcode": 30000,
+        "district_code": 300121,
+        "amphoe_code": 3001,
+        "province_code": 30
+    },
+    {
+        "district": "สุรนารี",
+        "amphoe": "เมืองนครราชสีมา",
+        "province": "นครราชสีมา",
+        "zipcode": 30000,
+        "district_code": 300120,
+        "amphoe_code": 3001,
+        "province_code": 30
+    },
+    {
+        "district": "หนองกระทุ่ม",
+        "amphoe": "เมืองนครราชสีมา",
+        "province": "นครราชสีมา",
+        "zipcode": 30000,
+        "district_code": 300124,
+        "amphoe_code": 3001,
+        "province_code": 30
+    },
+    {
+        "district": "หนองจะบก",
+        "amphoe": "เมืองนครราชสีมา",
+        "province": "นครราชสีมา",
+        "zipcode": 30000,
+        "district_code": 300103,
+        "amphoe_code": 3001,
+        "province_code": 30
+    },
+    {
+        "district": "หนองบัวศาลา",
+        "amphoe": "เมืองนครราชสีมา",
+        "province": "นครราชสีมา",
+        "zipcode": 30000,
+        "district_code": 300119,
+        "amphoe_code": 3001,
+        "province_code": 30
+    },
+    {
+        "district": "หนองระเวียง",
+        "amphoe": "เมืองนครราชสีมา",
+        "province": "นครราชสีมา",
+        "zipcode": 30000,
+        "district_code": 300106,
+        "amphoe_code": 3001,
+        "province_code": 30
+    },
+    {
+        "district": "หนองไข่น้ำ",
+        "amphoe": "เมืองนครราชสีมา",
+        "province": "นครราชสีมา",
+        "zipcode": 30310,
+        "district_code": 300125,
+        "amphoe_code": 3001,
+        "province_code": 30
+    },
+    {
+        "district": "หนองไผ่ล้อม",
+        "amphoe": "เมืองนครราชสีมา",
+        "province": "นครราชสีมา",
+        "zipcode": 30000,
+        "district_code": 300110,
+        "amphoe_code": 3001,
+        "province_code": 30
+    },
+    {
+        "district": "หมื่นไวย",
+        "amphoe": "เมืองนครราชสีมา",
+        "province": "นครราชสีมา",
+        "zipcode": 30000,
+        "district_code": 300108,
+        "amphoe_code": 3001,
+        "province_code": 30
+    },
+    {
+        "district": "หัวทะเล",
+        "amphoe": "เมืองนครราชสีมา",
+        "province": "นครราชสีมา",
+        "zipcode": 30000,
+        "district_code": 300111,
+        "amphoe_code": 3001,
+        "province_code": 30
+    },
+    {
+        "district": "โคกกรวด",
+        "amphoe": "เมืองนครราชสีมา",
+        "province": "นครราชสีมา",
+        "zipcode": 30280,
+        "district_code": 300117,
+        "amphoe_code": 3001,
+        "province_code": 30
+    },
+    {
+        "district": "โคกสูง",
+        "amphoe": "เมืองนครราชสีมา",
+        "province": "นครราชสีมา",
+        "zipcode": 30310,
+        "district_code": 300104,
+        "amphoe_code": 3001,
+        "province_code": 30
+    },
+    {
+        "district": "โพธิ์กลาง",
+        "amphoe": "เมืองนครราชสีมา",
+        "province": "นครราชสีมา",
+        "zipcode": 30000,
+        "district_code": 300102,
+        "amphoe_code": 3001,
+        "province_code": 30
+    },
+    {
+        "district": "ในเมือง",
+        "amphoe": "เมืองนครราชสีมา",
+        "province": "นครราชสีมา",
+        "zipcode": 30000,
+        "district_code": 300101,
+        "amphoe_code": 3001,
+        "province_code": 30
+    },
+    {
+        "district": "ไชยมงคล",
+        "amphoe": "เมืองนครราชสีมา",
+        "province": "นครราชสีมา",
+        "zipcode": 30000,
+        "district_code": 300118,
+        "amphoe_code": 3001,
+        "province_code": 30
+    },
+    {
+        "district": "กระเบื้องนอก",
+        "amphoe": "เมืองยาง",
+        "province": "นครราชสีมา",
+        "zipcode": 30270,
+        "district_code": 301708,
+        "amphoe_code": 3027,
+        "province_code": 30
+    },
+    {
+        "district": "ละหานปลาค้าว",
+        "amphoe": "เมืองยาง",
+        "province": "นครราชสีมา",
+        "zipcode": 30270,
+        "district_code": 301712,
+        "amphoe_code": 3027,
+        "province_code": 30
+    },
+    {
+        "district": "เมืองยาง",
+        "amphoe": "เมืองยาง",
+        "province": "นครราชสีมา",
+        "zipcode": 30270,
+        "district_code": 301709,
+        "amphoe_code": 3027,
+        "province_code": 30
+    },
+    {
+        "district": "โนนอุดม",
+        "amphoe": "เมืองยาง",
+        "province": "นครราชสีมา",
+        "zipcode": 30270,
+        "district_code": 301713,
+        "amphoe_code": 3027,
+        "province_code": 30
+    },
+    {
+        "district": "กุดโบสถ์",
+        "amphoe": "เสิงสาง",
+        "province": "นครราชสีมา",
+        "zipcode": 30330,
+        "district_code": 300304,
+        "amphoe_code": 3003,
+        "province_code": 30
+    },
+    {
+        "district": "บ้านราษฎร์",
+        "amphoe": "เสิงสาง",
+        "province": "นครราชสีมา",
+        "zipcode": 30330,
+        "district_code": 300306,
+        "amphoe_code": 3003,
+        "province_code": 30
+    },
+    {
+        "district": "สระตะเคียน",
+        "amphoe": "เสิงสาง",
+        "province": "นครราชสีมา",
+        "zipcode": 30330,
+        "district_code": 300302,
+        "amphoe_code": 3003,
+        "province_code": 30
+    },
+    {
+        "district": "สุขไพบูลย์",
+        "amphoe": "เสิงสาง",
+        "province": "นครราชสีมา",
+        "zipcode": 30330,
+        "district_code": 300305,
+        "amphoe_code": 3003,
+        "province_code": 30
+    },
+    {
+        "district": "เสิงสาง",
+        "amphoe": "เสิงสาง",
+        "province": "นครราชสีมา",
+        "zipcode": 30330,
+        "district_code": 300301,
+        "amphoe_code": 3003,
+        "province_code": 30
+    },
+    {
+        "district": "โนนสมบูรณ์",
+        "amphoe": "เสิงสาง",
+        "province": "นครราชสีมา",
+        "zipcode": 30330,
+        "district_code": 300303,
+        "amphoe_code": 3003,
+        "province_code": 30
+    },
+    {
+        "district": "บึงพะไล",
+        "amphoe": "แก้งสนามนาง",
+        "province": "นครราชสีมา",
+        "zipcode": 30440,
+        "district_code": 301205,
+        "amphoe_code": 3023,
+        "province_code": 30
+    },
+    {
+        "district": "บึงสำโรง",
+        "amphoe": "แก้งสนามนาง",
+        "province": "นครราชสีมา",
+        "zipcode": 30440,
+        "district_code": 302305,
+        "amphoe_code": 3023,
+        "province_code": 30
+    },
+    {
+        "district": "สีสุก",
+        "amphoe": "แก้งสนามนาง",
+        "province": "นครราชสีมา",
+        "zipcode": 30440,
+        "district_code": 300604,
+        "amphoe_code": 3023,
+        "province_code": 30
+    },
+    {
+        "district": "แก้งสนามนาง",
+        "amphoe": "แก้งสนามนาง",
+        "province": "นครราชสีมา",
+        "zipcode": 30440,
+        "district_code": 301213,
+        "amphoe_code": 3023,
+        "province_code": 30
+    },
+    {
+        "district": "โนนสำราญ",
+        "amphoe": "แก้งสนามนาง",
+        "province": "นครราชสีมา",
+        "zipcode": 30440,
+        "district_code": 301219,
+        "amphoe_code": 3023,
+        "province_code": 30
+    },
+    {
+        "district": "กระโทก",
+        "amphoe": "โชคชัย",
+        "province": "นครราชสีมา",
+        "zipcode": 30190,
+        "district_code": 300701,
+        "amphoe_code": 3007,
+        "province_code": 30
+    },
+    {
+        "district": "ด่านเกวียน",
+        "amphoe": "โชคชัย",
+        "province": "นครราชสีมา",
+        "zipcode": 30190,
+        "district_code": 300710,
+        "amphoe_code": 3007,
+        "province_code": 30
+    },
+    {
+        "district": "ทุ่งอรุณ",
+        "amphoe": "โชคชัย",
+        "province": "นครราชสีมา",
+        "zipcode": 30190,
+        "district_code": 300704,
+        "amphoe_code": 3007,
+        "province_code": 30
+    },
+    {
+        "district": "ท่าจะหลุง",
+        "amphoe": "โชคชัย",
+        "province": "นครราชสีมา",
+        "zipcode": 30190,
+        "district_code": 300706,
+        "amphoe_code": 3007,
+        "province_code": 30
+    },
+    {
+        "district": "ท่าลาดขาว",
+        "amphoe": "โชคชัย",
+        "province": "นครราชสีมา",
+        "zipcode": 30190,
+        "district_code": 300705,
+        "amphoe_code": 3007,
+        "province_code": 30
+    },
+    {
+        "district": "ท่าอ่าง",
+        "amphoe": "โชคชัย",
+        "province": "นครราชสีมา",
+        "zipcode": 30190,
+        "district_code": 300703,
+        "amphoe_code": 3007,
+        "province_code": 30
+    },
+    {
+        "district": "ท่าเยี่ยม",
+        "amphoe": "โชคชัย",
+        "province": "นครราชสีมา",
+        "zipcode": 30190,
+        "district_code": 300707,
+        "amphoe_code": 3007,
+        "province_code": 30
+    },
+    {
+        "district": "พลับพลา",
+        "amphoe": "โชคชัย",
+        "province": "นครราชสีมา",
+        "zipcode": 30190,
+        "district_code": 300702,
+        "amphoe_code": 3007,
+        "province_code": 30
+    },
+    {
+        "district": "ละลมใหม่พัฒนา",
+        "amphoe": "โชคชัย",
+        "province": "นครราชสีมา",
+        "zipcode": 30190,
+        "district_code": 300709,
+        "amphoe_code": 3007,
+        "province_code": 30
+    },
+    {
+        "district": "โชคชัย",
+        "amphoe": "โชคชัย",
+        "province": "นครราชสีมา",
+        "zipcode": 30190,
+        "district_code": 300708,
+        "amphoe_code": 3007,
+        "province_code": 30
+    },
+    {
+        "district": "ขามเฒ่า",
+        "amphoe": "โนนสูง",
+        "province": "นครราชสีมา",
+        "zipcode": 30160,
+        "district_code": 301011,
+        "amphoe_code": 3010,
+        "province_code": 30
+    },
+    {
+        "district": "จันอัด",
+        "amphoe": "โนนสูง",
+        "province": "นครราชสีมา",
+        "zipcode": 30160,
+        "district_code": 301010,
+        "amphoe_code": 3010,
+        "province_code": 30
+    },
+    {
+        "district": "ดอนชมพู",
+        "amphoe": "โนนสูง",
+        "province": "นครราชสีมา",
+        "zipcode": 30160,
+        "district_code": 301005,
+        "amphoe_code": 3010,
+        "province_code": 30
+    },
+    {
+        "district": "ดอนหวาย",
+        "amphoe": "โนนสูง",
+        "province": "นครราชสีมา",
+        "zipcode": 30160,
+        "district_code": 301015,
+        "amphoe_code": 3010,
+        "province_code": 30
+    },
+    {
+        "district": "ด่านคล้า",
+        "amphoe": "โนนสูง",
+        "province": "นครราชสีมา",
+        "zipcode": 30160,
+        "district_code": 301012,
+        "amphoe_code": 3010,
+        "province_code": 30
+    },
+    {
+        "district": "ธารปราสาท",
+        "amphoe": "โนนสูง",
+        "province": "นครราชสีมา",
+        "zipcode": 30420,
+        "district_code": 301006,
+        "amphoe_code": 3010,
+        "province_code": 30
+    },
+    {
+        "district": "บิง",
+        "amphoe": "โนนสูง",
+        "province": "นครราชสีมา",
+        "zipcode": 30160,
+        "district_code": 301004,
+        "amphoe_code": 3010,
+        "province_code": 30
+    },
+    {
+        "district": "พลสงคราม",
+        "amphoe": "โนนสูง",
+        "province": "นครราชสีมา",
+        "zipcode": 30160,
+        "district_code": 301009,
+        "amphoe_code": 3010,
+        "province_code": 30
+    },
+    {
+        "district": "มะค่า",
+        "amphoe": "โนนสูง",
+        "province": "นครราชสีมา",
+        "zipcode": 30160,
+        "district_code": 300914,
+        "amphoe_code": 3010,
+        "province_code": 30
+    },
+    {
+        "district": "ลำคอหงษ์",
+        "amphoe": "โนนสูง",
+        "province": "นครราชสีมา",
+        "zipcode": 30160,
+        "district_code": 301013,
+        "amphoe_code": 3010,
+        "province_code": 30
+    },
+    {
+        "district": "ลำมูล",
+        "amphoe": "โนนสูง",
+        "province": "นครราชสีมา",
+        "zipcode": 30160,
+        "district_code": 301016,
+        "amphoe_code": 3010,
+        "province_code": 30
+    },
+    {
+        "district": "หลุมข้าว",
+        "amphoe": "โนนสูง",
+        "province": "นครราชสีมา",
+        "zipcode": 30160,
+        "district_code": 301007,
+        "amphoe_code": 3010,
+        "province_code": 30
+    },
+    {
+        "district": "เมืองปราสาท",
+        "amphoe": "โนนสูง",
+        "province": "นครราชสีมา",
+        "zipcode": 30160,
+        "district_code": 301014,
+        "amphoe_code": 3010,
+        "province_code": 30
+    },
+    {
+        "district": "โตนด",
+        "amphoe": "โนนสูง",
+        "province": "นครราชสีมา",
+        "zipcode": 30160,
+        "district_code": 301003,
+        "amphoe_code": 3010,
+        "province_code": 30
+    },
+    {
+        "district": "โนนสูง",
+        "amphoe": "โนนสูง",
+        "province": "นครราชสีมา",
+        "zipcode": 30160,
+        "district_code": 301001,
+        "amphoe_code": 3010,
+        "province_code": 30
+    },
+    {
+        "district": "ใหม่",
+        "amphoe": "โนนสูง",
+        "province": "นครราชสีมา",
+        "zipcode": 30160,
+        "district_code": 301002,
+        "amphoe_code": 3010,
+        "province_code": 30
+    },
+    {
+        "district": "ดอนยาวใหญ่",
+        "amphoe": "โนนแดง",
+        "province": "นครราชสีมา",
+        "zipcode": 30360,
+        "district_code": 301316,
+        "amphoe_code": 3024,
+        "province_code": 30
+    },
+    {
+        "district": "วังหิน",
+        "amphoe": "โนนแดง",
+        "province": "นครราชสีมา",
+        "zipcode": 30360,
+        "district_code": 301305,
+        "amphoe_code": 3024,
+        "province_code": 30
+    },
+    {
+        "district": "สำพะเนียง",
+        "amphoe": "โนนแดง",
+        "province": "นครราชสีมา",
+        "zipcode": 30360,
+        "district_code": 301312,
+        "amphoe_code": 3024,
+        "province_code": 30
+    },
+    {
+        "district": "โนนตาเถร",
+        "amphoe": "โนนแดง",
+        "province": "นครราชสีมา",
+        "zipcode": 30360,
+        "district_code": 301311,
+        "amphoe_code": 3024,
+        "province_code": 30
+    },
+    {
+        "district": "โนนแดง",
+        "amphoe": "โนนแดง",
+        "province": "นครราชสีมา",
+        "zipcode": 30360,
+        "district_code": 301302,
+        "amphoe_code": 3024,
+        "province_code": 30
+    },
+    {
+        "district": "กำปัง",
+        "amphoe": "โนนไทย",
+        "province": "นครราชสีมา",
+        "zipcode": 30220,
+        "district_code": 300903,
+        "amphoe_code": 3009,
+        "province_code": 30
+    },
+    {
+        "district": "ค้างพลู",
+        "amphoe": "โนนไทย",
+        "province": "นครราชสีมา",
+        "zipcode": 30220,
+        "district_code": 300905,
+        "amphoe_code": 3009,
+        "province_code": 30
+    },
+    {
+        "district": "ด่านจาก",
+        "amphoe": "โนนไทย",
+        "province": "นครราชสีมา",
+        "zipcode": 30220,
+        "district_code": 300902,
+        "amphoe_code": 3009,
+        "province_code": 30
+    },
+    {
+        "district": "ถนนโพธิ์",
+        "amphoe": "โนนไทย",
+        "province": "นครราชสีมา",
+        "zipcode": 30220,
+        "district_code": 300909,
+        "amphoe_code": 3009,
+        "province_code": 30
+    },
+    {
+        "district": "บัลลังก์",
+        "amphoe": "โนนไทย",
+        "province": "นครราชสีมา",
+        "zipcode": 30220,
+        "district_code": 300907,
+        "amphoe_code": 3009,
+        "province_code": 30
+    },
+    {
+        "district": "บ้านวัง",
+        "amphoe": "โนนไทย",
+        "province": "นครราชสีมา",
+        "zipcode": 30220,
+        "district_code": 300906,
+        "amphoe_code": 3009,
+        "province_code": 30
+    },
+    {
+        "district": "มะค่า",
+        "amphoe": "โนนไทย",
+        "province": "นครราชสีมา",
+        "zipcode": 30220,
+        "district_code": 300914,
+        "amphoe_code": 3009,
+        "province_code": 30
+    },
+    {
+        "district": "สายออ",
+        "amphoe": "โนนไทย",
+        "province": "นครราชสีมา",
+        "zipcode": 30220,
+        "district_code": 300908,
+        "amphoe_code": 3009,
+        "province_code": 30
+    },
+    {
+        "district": "สำโรง",
+        "amphoe": "โนนไทย",
+        "province": "นครราชสีมา",
+        "zipcode": 30220,
+        "district_code": 300904,
+        "amphoe_code": 3009,
+        "province_code": 30
+    },
+    {
+        "district": "โนนไทย",
+        "amphoe": "โนนไทย",
+        "province": "นครราชสีมา",
+        "zipcode": 30220,
+        "district_code": 300901,
+        "amphoe_code": 3009,
+        "province_code": 30
+    }
+]

@@ -1,0 +1,21 @@
+{
+    "code": 200,
+    "status": true,
+    "msg": "",
+    "time": "2024-01-22 02:28:22",
+    "param_obj": {
+        "year": 2566,
+        "keyword": "",
+        "dept_code": "5300801",
+        "winner_tin": "",
+        "budget_start": 0,
+        "budget_end": ""
+    },
+    "summary": {
+        "total_project": "131",
+        "total_price": "7.34",
+        "unformatted_total_price": 7342769.85,
+        "total_price_baht": "7,342,769.85",
+        "unformatted_total_project": 131
+    }
+}
